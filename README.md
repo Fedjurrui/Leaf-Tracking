@@ -1,5 +1,5 @@
 # Leaf Tracking for plant top-down images
- A leaf tracking repository for top-down images on arabidopsis. This repository has been created as part of the research paper: DOI XXXX/XXXXXXXX
+ A leaf tracking repository for top-down images on arabidopsis. This repository has been created as part of the research paper: DOI XXXX/XXXXXXXX <br>
  ![Leaf Tracking Example GIF](Figures/A1_Fmp_masks.gif "Leaf-track-example1")
 
 ### Usage
