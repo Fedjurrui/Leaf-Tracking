@@ -17,7 +17,9 @@ pip install -r requirements.txt
 ```
 ### Model weights
 The model weights are stored as a lfs and github has a limit on the transference bandswith of this file. If you get an error while cloning the repository or you find that the folder Leaf-Tracking/Models is empty, you can find the weights file for the model here:
+
 [https://huggingface.co/fedjurrui/Leaf-Tracking/blob/main/Leaf_Segmentation_MaskedRCNN_7_7_2022_8h.h5](https://huggingface.co/fedjurrui/Leaf-Tracking/blob/main/Leaf_Segmentation_MaskedRCNN_7_7_2022_8h.h5)
+
 Download the weights there and copy them to Leaf-Tracking/Models.
 
 
