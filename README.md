@@ -15,6 +15,11 @@ Then install the requirements:
 ```powershell
 pip install -r requirements.txt
 ```
+### Model weights
+The model weights are stored as a lfs and github has a limit on the transference bandswith of this file. If you get an error while cloning the repository or you find that the folder Leaf-Tracking/Models is empty, you can find the weights file for the model here:
+[https://huggingface.co/fedjurrui/Leaf-Tracking/blob/main/Leaf_Segmentation_MaskedRCNN_7_7_2022_8h.h5](https://huggingface.co/fedjurrui/Leaf-Tracking/blob/main/Leaf_Segmentation_MaskedRCNN_7_7_2022_8h.h5)
+Download the weights there and copy them to Leaf-Tracking/Models.
+
 
 Open using [Visual Studio Code](https://code.visualstudio.com/) the folder and the open the Example_run.ipynb notebook file. Be mindful that it is a jupyter notebook, so if you have not worked with notebooks you might find the [documentation on jupyter notebook in VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) usefull.
 
